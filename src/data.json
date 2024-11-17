@@ -1,0 +1,12 @@
+{
+    "players": [
+      {
+        "name": "salem",
+        "blacklist": true
+      },
+      {
+        "name": "john",
+        "blacklist": false
+      }
+    ]
+}
