@@ -25,7 +25,7 @@ Node.js 20 ou supérieur 🌱
 - Ajoutez cette commande de lancement dans la configuration du serveur :
 
 ```bash
-rm -rf dist/ && npm run build && npm start
+INDISPONIBLE
 ```
 
 Cette commande supprime le répertoire dist/ (si présent), puis effectue un build du projet avec npm run build et enfin démarre le serveur avec npm start.
